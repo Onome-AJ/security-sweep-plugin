@@ -1,0 +1,21 @@
+{
+  "name": "security-sweep-marketplace",
+  "owner": {
+    "name": "onomeaj",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Security scanning tools for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "security-sweep",
+      "source": ".",
+      "description": "Comprehensive security scanner — secrets, injection, auth, config, AI, mobile, data exposure",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["security", "owasp", "sast", "vulnerability-scanner"]
+    }
+  ]
+}

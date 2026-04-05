@@ -1,0 +1,22 @@
+{
+  "name": "@onomeaj/claude-security-sweep",
+  "version": "1.0.0",
+  "description": "Claude Code plugin: comprehensive security scanner for codebases — OWASP Top 10, secrets detection, injection flaws, auth issues, AI-specific vulnerabilities",
+  "repository": "https://github.com/onomeaj/security-sweep-plugin",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "security",
+    "vulnerability-scanner",
+    "owasp",
+    "sast",
+    "secrets-detection"
+  ],
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "LICENSE",
+    "README.md"
+  ]
+}

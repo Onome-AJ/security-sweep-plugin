@@ -1,0 +1,26 @@
+{
+  "name": "security-sweep",
+  "version": "1.0.0",
+  "description": "Comprehensive security scanner for codebases — finds hardcoded secrets, injection flaws, auth issues, misconfigurations, AI-specific vulnerabilities, and more. Covers OWASP Top 10, Mobile Top 10, and LLM Top 10.",
+  "author": {
+    "name": "onomeaj",
+    "url": "https://github.com/onomeaj"
+  },
+  "homepage": "https://github.com/onomeaj/security-sweep-plugin",
+  "repository": "https://github.com/onomeaj/security-sweep-plugin",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "vulnerability-scanner",
+    "owasp",
+    "secrets-detection",
+    "sast",
+    "code-audit",
+    "injection",
+    "xss",
+    "sql-injection",
+    "mobile-security",
+    "ai-security"
+  ],
+  "skills": "./skills/"
+}
